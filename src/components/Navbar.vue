@@ -5,7 +5,7 @@
                 <router-link to="">
                     <span class="nav-title">Ninja Smoothies</span>
                 </router-link>
-                <a href="" class="btn-floating btn-large halway-fab pink">
+                <a href="" class="btn-floating btn-large halfway-fab pink">
                     <router-link to="">
                         <i class="material-icons">add</i>
                     </router-link>
@@ -18,9 +18,6 @@
 <script>
 export default {
     name: 'Navbar',
-    data() {
-        return
-    }
 }
 </script>
 
